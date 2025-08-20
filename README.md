@@ -3,7 +3,7 @@
 This project analyzes the UK E-Commerce dataset (2010–2011) to uncover sales patterns and customer behavior.  
 
 ## 📂 Dataset
-- Source: Kaggle (UK E-Commerce Dataset)
+- Source: Kaggle (UK E-Commerce Dataset)(https://www.kaggle.com/datasets/carrie1/ecommerce-data)
 - Size: ~500,000 transactions
 - Features: InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country  
 
